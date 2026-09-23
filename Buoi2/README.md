@@ -21,14 +21,14 @@ Máy tính dùng bus địa chỉ 32 bit, đánh địa chỉ theo từng byte, 
 - Số địa chỉ có thể tạo ra: $2^{32}$
 - Vì đánh địa chỉ theo từng byte nên không gian địa chỉ tối đa:
 
-  $$
-  \begin{aligned}
-  2^{32}\ \text{byte}
-    &= 4{,}294{,}967{,}296\ \text{byte} \\
-    &= 4\ \text{GiB} \\
-    &\approx 4\ \text{GB}
-  \end{aligned}
-  $$
+```math
+\begin{aligned}
+2^{32}\ \text{byte}
+  &= 4{,}294{,}967{,}296\ \text{byte} \\
+  &= 4\ \text{GiB} \\
+  &\approx 4\ \text{GB}
+\end{aligned}
+```
 
 **b) Mỗi lần truy cập bộ nhớ, máy trao đổi được bao nhiêu byte?**
 
@@ -46,13 +46,13 @@ Máy tính dùng 32 bit địa chỉ, đánh địa chỉ bộ nhớ theo byte; 
 
 - Số byte nhớ tối đa:
 
-  $$
-  \begin{aligned}
-  2^{32}
-    &= 4{,}294{,}967{,}296\ \text{byte} \\
-    &= 4\ \text{GiB}
-  \end{aligned}
-  $$
+```math
+\begin{aligned}
+2^{32}
+  &= 4{,}294{,}967{,}296\ \text{byte} \\
+  &= 4\ \text{GiB}
+\end{aligned}
+```
 - Địa chỉ đầu: `0x00000000`
 - Địa chỉ cuối: `0xFFFFFFFF`
 
