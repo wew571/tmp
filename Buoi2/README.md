@@ -4,6 +4,12 @@
 ### Bước 2 : Mở Visual Studio Code hoặc các phần mềm hỗ trợ đọc file .md
 ### Bước 3 : Trong Visual Studio Code ấn `Open as Preview`
 
+## Cách 2 :
+Truy cập vào link sau :
+```
+https://github.com/wew571/tmp/tree/main/Buoi2
+```
+
 # Chương 2 — Hệ thống máy tính
 
 ## Bài 2.1
